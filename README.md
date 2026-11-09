@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project analyzes stock market trends using Python and data visualization techniques. It uses historical stock price data to visualize changes in closing prices over time through a line graph.
+This project analyzes stock market trends using Python and data visualization techniques. It uses stock price data to visualize changes in closing prices over time through a line graph.
 
 The project helps understand stock price fluctuations and identify overall market trends using Python libraries.
 
@@ -42,6 +42,8 @@ The dataset contains the following columns:
 | Date | Stock observation date |
 | Closing Price | Stock closing price |
 
+**Note:** The dataset is an approximate reconstruction from a reference graph for educational and data visualization purposes. It does not represent verified historical stock market prices.
+
 ## ⚙️ Installation and Execution
 
 **Step 1:** Clone the repository.
@@ -74,6 +76,8 @@ The project generates a line graph titled:
 
 The graph represents stock closing prices against dates and highlights fluctuations and the overall price trend.
 
+![Closing Price Trend over Time](line_plot.png)
+
 ## 💡 Key Learning Outcomes
 
 - Reading CSV files using Pandas.
@@ -84,7 +88,7 @@ The graph represents stock closing prices against dates and highlights fluctuati
 
 ## 👨‍💻 Author
 
-**karanbagade236-sketch**
+**Karan N B**
 
 Computer Science and Engineering Student
 
