@@ -25,7 +25,7 @@ The project helps understand stock price fluctuations and identify overall marke
 ```text
 Stock-Market-Trend-Analysis/
 │
-├── Stock_Market_Analysis.ipynb
+├── Stock_market.ipynb
 ├── stock_data.csv
 ├── line_plot.png
 └── README.md
@@ -47,7 +47,7 @@ The dataset contains the following columns:
 **Step 1:** Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Stock-Market-Trend-Analysis.git
+git clone https://github.com/karanbagade236-sketch/Stock-Market-Trend-Analysis.git
 ```
 
 **Step 2:** Navigate to the project folder.
