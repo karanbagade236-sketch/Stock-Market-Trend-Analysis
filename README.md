@@ -84,7 +84,7 @@ The graph represents stock closing prices against dates and highlights fluctuati
 
 ## 👨‍💻 Author
 
-**Karan N B**
+**karanbagade236-sketch**
 
 Computer Science and Engineering Student
 
